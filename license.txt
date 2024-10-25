@@ -1,0 +1,12 @@
+Runnig Lights End User License Agreement
+
+Copyright (c) 2024 Vladimir Chaly Telegram: https://t.me/vchaly
+
+1. Software rights of use.
+
+1.1 The licensor grants the user the non-exclusive, not sub-licensable right to use, copy, modify, distribute the Software.
+1.2 The use of the Software is for only non-commercial purposes.
+
+2. The Software is distributed "as is". No warranty of any kind is expressed or implied. You use the Software 
+   at your own risk. The licensor will not be liable for data loss, damages, 
+   loss of profits or any other kind of loss while using or misusing this Software.
